@@ -63,3 +63,16 @@ aside{
     float: left;
     border-radius: 10px;
 }
+
+div{
+    width: 500px;
+    height: 100px
+}
+
+footer{
+    background-color: grey;
+    width: 770px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 10px;
+}
