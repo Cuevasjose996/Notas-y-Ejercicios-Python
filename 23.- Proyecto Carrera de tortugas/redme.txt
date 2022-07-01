@@ -1,0 +1,12 @@
+#El juego se juega de dos jugadores
+
+#El programa crea la tortuga del jugador 1 
+y despues la tortuga del juegador 2
+
+#Se crean las metas de ambos jugadores
+
+#Se tira al azar un dado para que avance cada jugador
+
+#El valor del dado indicara la cantidad de casillas que avanzara cada jugador
+
+#Gana el primer jugador en llegar a su meta
